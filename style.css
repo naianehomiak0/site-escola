@@ -1,8 +1,4 @@
-header {
-    background-color: #000000;
-    color:#009CB2;
-}
-
-.cabeçalho-imagem{ 
-    width: 20%;
+header 
+body{ background-color: #000000;
+color: #009CB2;
 }
